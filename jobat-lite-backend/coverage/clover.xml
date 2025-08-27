@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1756046590830" clover="3.2.0">
+  <project timestamp="1756046590831" name="All files">
+    <metrics statements="6" coveredstatements="6" conditionals="14" coveredconditionals="7" methods="3" coveredmethods="3" elements="23" coveredelements="16" complexity="0" loc="6" ncloc="6" packages="1" files="1" classes="1"/>
+    <file name="resumeProcessor.js" path="C:\Users\mokga\jobat-lite-backend\utils\resumeProcessor.js">
+      <metrics statements="6" coveredstatements="6" conditionals="14" coveredconditionals="7" methods="3" coveredmethods="3"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
