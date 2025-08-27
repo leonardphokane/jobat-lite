@@ -1,0 +1,26 @@
+# Ensure consistent line endings
+* text=auto
+
+# Treat Markdown files as UTF-8 text
+*.md text
+
+# Normalize JavaScript and TypeScript files
+*.js text
+*.ts text
+
+# Normalize JSON and config files
+*.json text
+*.yml text
+*.yaml text
+
+# Normalize stylesheets
+*.css text
+*.scss text
+
+# Normalize source code files
+*.jsx text
+*.tsx text
+*.html text
+
+# Ignore node_modules from line-ending normalization
+node_modules/** -text
