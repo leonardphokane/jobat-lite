@@ -21,7 +21,7 @@ Jobat Lite is a recruiter-facing resume dashboard that empowers fair hiring thro
 ## 📦 How to Run
 
 ### Backend
-```bash
+
 cd jobat-lite-backend
 npm install
 npm run dev
