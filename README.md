@@ -46,9 +46,13 @@
 ### 🔧 Backend Setup
 
 
+
 cd jobat-lite-backend
 npm install
 npm run dev
+
+---
+
 💻 Frontend Setup
 bash
 cd jobat-lite-dashboard
